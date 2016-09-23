@@ -1,5 +1,5 @@
 export class TypescriptNodeStarter {
   public sayHi() {
-    console.log('Typescript Node Starter');
+    console.log('Hello. I\'m the Typescript Node Starter.');
   }
 }

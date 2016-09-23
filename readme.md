@@ -44,3 +44,24 @@ That's a VSCode thing. You can find the configuration file at
 the npm build script and has the `sourcemaps` option set to true.
 Other than those modifications it's the default `launch.json` file
 VSCode configures when you setup a Node project.
+
+## Why did you create this?
+
+I created this because I find myself doing lots of little node experiments.
+Being a typescript fan I naturally find myself setting up the whole
+transpilation process every single time. And of course I setup the debugger
+as well. Doing this over and over again grew tiresome so I decided to make
+this repository. You may notice a few of my prefrences have slipped in here
+(such as enabling auto-save at the workspace level in VSCode by default, and a
+few tslint rules) and a clear prefrence for the VSCode editor. I intend this
+mainly for personal use so it makes sense for me to include these things.
+Obviously, however, I'm happy to share this tool with others. I welcome any
+suggestions or comments.
+
+## Extension Recommendations
+
+`npm Intellisense`
+
+`Path Intellisense`
+
+`TSLint`
