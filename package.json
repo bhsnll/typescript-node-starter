@@ -1,0 +1,16 @@
+{
+  "name": "typescript-node-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run build && node index.js",
+    "build": "tsc --project tsconfig.json",
+    "prebuild": "rm -rf index.js src/*.js"
+  },
+  "author": "Braden Snell",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.0.2"
+  }
+}
