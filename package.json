@@ -8,7 +8,7 @@
     "start": "npm run build && node index.js",
     "build": "tsc --project tsconfig.json",
     "prebuild": "rm -rf index.js src/*.js",
-    "reinit-git": "rm -rf .git"
+    "reinit-git": "rm -rf .git && git init"
   },
   "author": "Braden Snell",
   "license": "ISC",
