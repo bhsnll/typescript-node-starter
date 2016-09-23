@@ -26,7 +26,7 @@ Launch the VSCode debugger by pressing `F5`.
 
 Happy coding! (Read on to understand the project organization).
 
-Should you want to point this starter to a different git repo simply run
+Should you want to point this project to a different git repo simply run
 `npm run reinit-git` to clear out the `.git` directory and create it anew.
 
 ## About the Project
