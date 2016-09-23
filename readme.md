@@ -1,6 +1,7 @@
 ## Getting Started
 
-*(make sure `git` and `npm` are installed on your system)*
+*(Make sure `git` and `npm` are installed on your system. And, while not required,
+using VSCode as your editor is highly recommended.)*
 
 Clone the repository.
 
@@ -45,7 +46,7 @@ the npm build script and has the `sourcemaps` option set to true.
 Other than those modifications it's the default `launch.json` file
 VSCode configures when you setup a Node project.
 
-## Why did you create this?
+## Why?
 
 I created this because I find myself doing lots of little node experiments.
 Being a typescript fan I naturally find myself setting up the whole
