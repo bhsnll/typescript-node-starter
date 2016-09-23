@@ -60,7 +60,9 @@ suggestions or comments.
 
 ## Extension Recommendations
 
-`npm Intellisense`
+(Google)[http://google.com]
+
+(npm Intellisense)[https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense]
 
 `Path Intellisense`
 
