@@ -20,6 +20,8 @@ optimised for use with VSCode)
 
 `code .`
 
+Set a breakpoint on line 3 of `index.ts`.
+
 Launch the VSCode debugger by pressing `F5`.
 
 Happy coding! (Read on to understand the project organization).
